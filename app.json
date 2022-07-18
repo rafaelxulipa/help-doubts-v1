@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "help-doubts-v1",
+    "slug": "help-doubts-v1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
